@@ -1,0 +1,14 @@
+/home/ranjit/Documents/DeviceMGM/devicemanagement/src/main/java/com/dev/mgm/bean/User.java
+/home/ranjit/Documents/DeviceMGM/devicemanagement/src/main/java/com/dev/mgm/bean/Admin.java
+/home/ranjit/Documents/DeviceMGM/devicemanagement/src/main/java/com/dev/mgm/bean/DeviceStatus.java
+/home/ranjit/Documents/DeviceMGM/devicemanagement/src/main/java/com/dev/mgm/ServletInitializer.java
+/home/ranjit/Documents/DeviceMGM/devicemanagement/src/main/java/com/dev/mgm/DeviceMgmServices.java
+/home/ranjit/Documents/DeviceMGM/devicemanagement/src/main/java/com/dev/mgm/db/MySessionFactory.java
+/home/ranjit/Documents/DeviceMGM/devicemanagement/src/main/java/com/dev/mgm/bean/UserBack.java
+/home/ranjit/Documents/DeviceMGM/devicemanagement/src/main/java/com/dev/mgm/user/controller/UserController.java
+/home/ranjit/Documents/DeviceMGM/devicemanagement/src/main/java/com/dev/mgm/util/TimeValidation.java
+/home/ranjit/Documents/DeviceMGM/devicemanagement/src/main/java/com/dev/mgm/bean/Device.java
+/home/ranjit/Documents/DeviceMGM/devicemanagement/src/main/java/com/dev/mgm/dao/UserDAO.java
+/home/ranjit/Documents/DeviceMGM/devicemanagement/src/main/java/com/dev/mgm/Test.java
+/home/ranjit/Documents/DeviceMGM/devicemanagement/src/main/java/com/dev/mgm/DevicemanagementApplication.java
+/home/ranjit/Documents/DeviceMGM/devicemanagement/src/main/java/com/dev/mgm/bean/MessageBean.java

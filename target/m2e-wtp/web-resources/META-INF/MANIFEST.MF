@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: devicemanagement
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ranjit
+Implementation-Vendor-Id: com.dev.mgm
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/devicemanage
+ ment/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
